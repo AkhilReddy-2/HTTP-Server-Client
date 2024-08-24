@@ -1,11 +1,3 @@
-/*
-	ASSIGNMENT 4
-	GANGARAM ARVIND SUDEWAD
-	20CS30017
-	KANCHI MOHAN KRISHNA
-	20CS10030
-*/
-
 // GET http://127.0.0.1/abc.txt:20000
 // PUT http://127.0.0.1/:20000 abc.txt
 #include <stdio.h>
